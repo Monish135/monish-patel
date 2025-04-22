@@ -1,6 +1,13 @@
-# Monish Patel
+<div align="center">
+  <h1>👋 Hi, I'm Monish Patel</h1>
+  <h3>🚀 Full Stack Developer | Cloud Architect | Problem Solver</h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monish-patel-911562211/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monish-patel)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmonish1813@gmail.com)
+</div>
 
-## 🚀 Full Stack Developer | Cloud Architect | Problem Solver
+---
 
 ### 💡 About Me
 Passionate software engineer with expertise in full-stack development and cloud technologies. Currently pursuing MS in Computer and Systems Engineering at the University of Houston. Specializing in building scalable applications and implementing efficient solutions.
@@ -29,10 +36,6 @@ Passionate software engineer with expertise in full-stack development and cloud 
 ### 📚 Education
 - MS in Computer and Systems Engineering - University of Houston
 - BE in Computer Engineering - Gujarat Technological University
-
-### 🔗 Connect With Me
-- LinkedIn: [monish-patel](https://www.linkedin.com/in/monish-patel)
-- Email: pmonish1813@gmail.com
 
 ### 🏆 Certifications
 - The Complete 2024 Web Development Bootcamp
